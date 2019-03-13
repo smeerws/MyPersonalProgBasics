@@ -1,1 +1,3 @@
 # MyPersonalProgBasics
+
+Susi ist da
